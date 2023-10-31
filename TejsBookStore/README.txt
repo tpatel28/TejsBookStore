@@ -33,3 +33,13 @@ Modified Site.css with Provided Site.css styles.
 0853
 In Layout.cshtml , Attached new bootstrap.css
 Modified  Footer and anchor tags class properties.
+
+0858
+In _loginPartial.cshtml, removed text-dark from anchor tags.
+Ran project and worked perfectly.
+
+0901
+Added provided scrpits and styles from CSS_JS.txt
+
+0903
+Added Dropdown in _Layout.cshtml
