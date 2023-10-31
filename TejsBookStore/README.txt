@@ -57,3 +57,18 @@ Delated migration folder from .DataAccess project.
 
 0917
 Installed Indentity.EntityFrameworkCore package
+
+0920
+Removed Class1.cs from three projects
+Modified namespace ApplicationDbContext.cs
+
+0921
+Solved 3 eerors by adding project reference
+
+0924
+Moved models folder in .Models project
+Modified Error.cshtml
+
+0927
+Added projects references to Main project
+Modified namespace in Error.cshtml

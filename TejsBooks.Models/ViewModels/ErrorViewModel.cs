@@ -1,6 +1,6 @@
 using System;
 
-namespace TejsBookStore.Models
+namespace TejsBookStore.Models.ViewModels
 {
     public class ErrorViewModel
     {

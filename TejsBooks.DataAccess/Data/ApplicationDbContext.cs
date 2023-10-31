@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace TejsBookStore.Data
+namespace TejsBookStore.DataAccess.Data
 {
     public class ApplicationDbContext : IdentityDbContext
     {
