@@ -1,1 +1,1 @@
-﻿
+﻿Created web application using dotnet 5.0 and individual account type authentication. 
