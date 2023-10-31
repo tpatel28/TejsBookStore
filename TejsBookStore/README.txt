@@ -72,3 +72,21 @@ Modified Error.cshtml
 0927
 Added projects references to Main project
 Modified namespace in Error.cshtml
+
+0932
+Added Project references to Minproject and .DataAccess project
+
+0934
+Added new area named Customer to Areas folder
+Modified Startup.cs , added {area:exists}
+
+0935
+Moved HomeController.cs to Customer's Controller
+Removed Data and Models folder 
+
+0939
+Modified Homecontroller.cs
+Moved Views folder
+
+0950
+Moved _Viewimport and_Viewstart in customer Area.
