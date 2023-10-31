@@ -11,3 +11,25 @@ Created README.md
 
 0840
 In startup.cs , comment out options => options.SignIn.RequireConfirmedAccount = true on line 35.
+
+0841
+Created Github Repository
+
+0842
+Reviewed all files mentioned in PPT.
+
+0844
+Added breakpoints in HomeControllers.cs for Home and Privacy pages.
+
+0845
+Downloaded SuperHero theme from Bootswatch.com . file name bootstrap.css
+
+0850
+Change name of bootstrp.css
+Created new bootstrap.css
+Added theme styles in it
+Modified Site.css with Provided Site.css styles.
+
+0853
+In Layout.cshtml , Attached new bootstrap.css
+Modified  Footer and anchor tags class properties.
