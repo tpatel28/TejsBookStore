@@ -43,3 +43,17 @@ Added provided scrpits and styles from CSS_JS.txt
 
 0903
 Added Dropdown in _Layout.cshtml
+
+0908
+Added 3 new Projects 
+TejsBooks.DataAccess
+TejsBooks.Models
+TejsBooks.Utility
+Copied Data folder to .DataAccess project
+
+0913
+Installed  2 packages described in PPT.
+Delated migration folder from .DataAccess project.
+
+0917
+Installed Indentity.EntityFrameworkCore package
