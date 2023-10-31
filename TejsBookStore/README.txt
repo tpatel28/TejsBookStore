@@ -90,3 +90,10 @@ Moved Views folder
 
 0950
 Moved _Viewimport and_Viewstart in customer Area.
+Application ran successfully
+
+0954
+Added new Area named Admin
+Deleted data and Models
+Moved proper Views in that area
+
