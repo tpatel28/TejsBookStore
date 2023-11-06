@@ -119,3 +119,5 @@ Added new categoryRepository and Interface file
 Added new file and interface file named ISP_Call.cs and SP_Call.cs and installed Dapper in ISP_Call.cs
 1843
 Created new class and interface for UnitOfWork and commited to github
+1847
+Added -  services.AddScoped<IUnitOfWork, UnitOfWork>(); to startup.cs and with using statement

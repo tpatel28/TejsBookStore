@@ -11,6 +11,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using TejsBooks.DataAccess.Repository;
+using TejsBooks.DataAccess.Repository.IRepository;
 using TejsBookStore.DataAccess.Data;
 
 namespace TejsBookStore
@@ -34,6 +36,7 @@ namespace TejsBookStore
 
             services.AddDefaultIdentity<IdentityUser>(/*options => options.SignIn.RequireConfirmedAccount = true*/)
                 .AddEntityFrameworkStores<ApplicationDbContext>();
+            services.AddScoped<IUnitOfWork, UnitOfWork>();
             services.AddControllersWithViews();
         }
 
