@@ -117,3 +117,5 @@ created new repository and irepository folder and added IRepository and Reposito
 Added new categoryRepository and Interface file 
 1839
 Added new file and interface file named ISP_Call.cs and SP_Call.cs and installed Dapper in ISP_Call.cs
+1843
+Created new class and interface for UnitOfWork and commited to github
