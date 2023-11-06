@@ -104,4 +104,10 @@ Started the project part 2
 1812
 changed this  "DefaultConnection": "Server=(localdb)\\mssqllocaldb;Database=TejsBookStore;Trusted_Connection=True;MultipleActiveResultSets=true"
 1813
-add-migration from the NuGet Package manager
+add-migration from the NuGet Package manager and changed the project to .DataAccess
+1817
+updateed the database
+1820
+Added the Category.cs in Models project
+1822
+added this to   public DbSet<Category> Categories { get; set; } in ApplicationDbContext.cs to add migration
