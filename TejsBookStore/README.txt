@@ -115,3 +115,5 @@ added this to   public DbSet<Category> Categories { get; set; } in ApplicationDb
 created new repository and irepository folder and added IRepository and Repository and added the code from the blackBorad.
 1831
 Added new categoryRepository and Interface file 
+1839
+Added new file and interface file named ISP_Call.cs and SP_Call.cs and installed Dapper in ISP_Call.cs
