@@ -97,3 +97,11 @@ Added new Area named Admin
 Deleted data and Models
 Moved proper Views in that area
 
+2023-11-06
+1810
+Started the project part 2
+
+1812
+changed this  "DefaultConnection": "Server=(localdb)\\mssqllocaldb;Database=TejsBookStore;Trusted_Connection=True;MultipleActiveResultSets=true"
+1813
+add-migration from the NuGet Package manager
