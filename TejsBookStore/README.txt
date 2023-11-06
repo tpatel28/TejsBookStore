@@ -113,3 +113,5 @@ Added the Category.cs in Models project
 added this to   public DbSet<Category> Categories { get; set; } in ApplicationDbContext.cs to add migration
 1827
 created new repository and irepository folder and added IRepository and Repository and added the code from the blackBorad.
+1831
+Added new categoryRepository and Interface file 
