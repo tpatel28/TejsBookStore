@@ -127,3 +127,5 @@ Created new index.cshtml used template Empty(wihtout model) and added code from 
 Added the javascript file to index.cshtml and added code for the edit and delete action
 1910
 created upsert.cshtml and added the code from the blackborad and added two partial views
+1915
+modified the Upsert.cshtml
