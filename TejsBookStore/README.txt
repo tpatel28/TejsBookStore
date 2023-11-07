@@ -131,3 +131,5 @@ created upsert.cshtml and added the code from the blackborad and added two parti
 modified the Upsert.cshtml
 1921
 added the deletlition functionality
+1945
+Check all the files and folder and run the application and checked all functionality
