@@ -121,3 +121,5 @@ Added new file and interface file named ISP_Call.cs and SP_Call.cs and installed
 Created new class and interface for UnitOfWork and commited to github
 1847
 Added -  services.AddScoped<IUnitOfWork, UnitOfWork>(); to startup.cs and with using statement
+1900
+Created new index.cshtml used template Empty(wihtout model) and added code from the blackbroad and modified the nav link
