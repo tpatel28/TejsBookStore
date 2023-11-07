@@ -123,3 +123,7 @@ Created new class and interface for UnitOfWork and commited to github
 Added -  services.AddScoped<IUnitOfWork, UnitOfWork>(); to startup.cs and with using statement
 1900
 Created new index.cshtml used template Empty(wihtout model) and added code from the blackbroad and modified the nav link
+1907
+Added the javascript file to index.cshtml and added code for the edit and delete action
+1910
+created upsert.cshtml and added the code from the blackborad and added two partial views
