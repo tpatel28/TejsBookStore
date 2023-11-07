@@ -129,3 +129,5 @@ Added the javascript file to index.cshtml and added code for the edit and delete
 created upsert.cshtml and added the code from the blackborad and added two partial views
 1915
 modified the Upsert.cshtml
+1921
+added the deletlition functionality
