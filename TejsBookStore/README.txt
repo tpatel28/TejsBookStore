@@ -156,3 +156,9 @@ Added CoverType Controller to Admin Area
 1348
 Added CoverType Index View and Upsert view to Admin Area
 Added new coverType.js to add delete function
+
+1634
+Added new Product class to .Models project and solved errors.
+
+1639
+Added Reference to ApplicationDbContext.cs
