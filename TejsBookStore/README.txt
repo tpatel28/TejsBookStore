@@ -162,3 +162,12 @@ Added new Product class to .Models project and solved errors.
 
 1639
 Added Reference to ApplicationDbContext.cs
+
+1648
+Ran migration in .Dataccess named 20231117204406_addProductToDb.cs
+Updated database
+Reviewed SOE and dbo.Products is there.
+
+1658
+Updated product class and added validation for title , author, ISBN.
+added new migration 20231117210030_addValidationToProduct.cs in .Dataccess project.
