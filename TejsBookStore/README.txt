@@ -157,17 +157,24 @@ Added CoverType Controller to Admin Area
 Added CoverType Index View and Upsert view to Admin Area
 Added new coverType.js to add delete function
 
-1634
+1534
 Added new Product class to .Models project and solved errors.
 
-1639
+1539
 Added Reference to ApplicationDbContext.cs
 
-1648
+1548
 Ran migration in .Dataccess named 20231117204406_addProductToDb.cs
 Updated database
 Reviewed SOE and dbo.Products is there.
 
-1658
+1558
 Updated product class and added validation for title , author, ISBN.
 added new migration 20231117210030_addValidationToProduct.cs in .Dataccess project.
+
+1610
+Added new class ProductRepository and Interface IProductRepository
+
+1621
+Added product to UnitOfWork and IUnitOfWork
+Built Application, Ran perfectly.
