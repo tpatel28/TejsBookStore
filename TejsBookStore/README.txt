@@ -133,3 +133,12 @@ modified the Upsert.cshtml
 added the deletlition functionality
 1945
 Check all the files and folder and run the application and checked all functionality
+
+11-17-2023
+1305
+
+Cloned projects Started Part- 3
+Added CoverType.cs model in models project and added Id and Name in it.
+
+1313
+Added new class CoverTypeRepository.cs in Repository and ICoverTypeRepository.cs interface in IRepository
