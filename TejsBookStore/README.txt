@@ -142,3 +142,9 @@ Added CoverType.cs model in models project and added Id and Name in it.
 
 1313
 Added new class CoverTypeRepository.cs in Repository and ICoverTypeRepository.cs interface in IRepository
+
+1321
+Added covertype to UnitOfWork and IUnitOfWork 
+
+1335
+Added Migration 20231117183442_AddedCoverTypeMigration.cs and Updated database 
