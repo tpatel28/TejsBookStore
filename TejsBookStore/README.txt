@@ -178,3 +178,14 @@ Added new class ProductRepository and Interface IProductRepository
 1621
 Added product to UnitOfWork and IUnitOfWork
 Built Application, Ran perfectly.
+
+1819
+Added new Product Controller in Admin Area
+
+1829
+Added Product View Model in .Models project. 
+Installed Microsoft.AspNetCore.Mvc.ViewFeatures package
+
+1834
+Commented out Upsert post method
+Modified the API Call to include the Category and CoverType properties 
