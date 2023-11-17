@@ -148,3 +148,11 @@ Added covertype to UnitOfWork and IUnitOfWork
 
 1335
 Added Migration 20231117183442_AddedCoverTypeMigration.cs and Updated database 
+
+1344
+Added CoverType to the NavBar
+Added CoverType Controller to Admin Area
+
+1348
+Added CoverType Index View and Upsert view to Admin Area
+Added new coverType.js to add delete function
