@@ -189,3 +189,11 @@ Installed Microsoft.AspNetCore.Mvc.ViewFeatures package
 1834
 Commented out Upsert post method
 Modified the API Call to include the Category and CoverType properties 
+
+1849
+Added new Index view To Product
+Created product.js , copied code of category.js and renamed it.
+
+1852
+Added new link to product in  _Layout.cshtml
+Tested Application , Ran perfectly
