@@ -197,3 +197,28 @@ Created product.js , copied code of category.js and renamed it.
 1852
 Added new link to product in  _Layout.cshtml
 Tested Application , Ran perfectly
+
+2023-11-27
+1135
+Cloned repository and started section 3 of part 3 
+
+1140
+Created account on tiny.cloud and took script code from it .
+
+1142
+Added upsert view code for product in admin area and added code from given files
+
+1146
+Created folder in wwwroot>images>products 
+
+1152
+uncommented code from productcontroller and added other necessary code in it.
+
+1156
+Modified Product.cs
+
+1158
+tested application ,ran perfectly
+
+1200
+Part-3 section -3 completed
