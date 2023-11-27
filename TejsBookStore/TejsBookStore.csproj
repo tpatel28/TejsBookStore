@@ -22,8 +22,4 @@
     <ProjectReference Include="..\TejsBooks.Utility\TejsBooks.Utility.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="wwwroot\images\products\" />
-  </ItemGroup>
-
 </Project>

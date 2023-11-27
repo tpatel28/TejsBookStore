@@ -232,3 +232,7 @@ Added the IUnitOfWork in HomeController.cs
 Added the index.cshtml for product to display the product and updated the product.js
 1819
 Added this services.AddControllersWithViews().AddRazorRuntimeCompilation(); to startup.cs
+1827
+Had an error when trying to click the product link then found out that there was an extra space in productController.cs. Removed it and ran it successfully.
+1830
+Added the images in the wwwroot folder 
