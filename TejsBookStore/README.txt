@@ -199,6 +199,7 @@ Added new link to product in  _Layout.cshtml
 Tested Application , Ran perfectly
 
 2023-11-27
+
 1135
 Cloned repository and started section 3 of part 3 
 
@@ -222,3 +223,6 @@ tested application ,ran perfectly
 
 1200
 Part-3 section -3 completed
+
+1807
+Added HttpPost in product controller and added the code for the image in upsert.cshtml of product
