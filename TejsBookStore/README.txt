@@ -226,3 +226,5 @@ Part-3 section -3 completed
 
 1807
 Added HttpPost in product controller and added the code for the image in upsert.cshtml of product
+1812
+Added the IUnitOfWork in HomeController.cs
