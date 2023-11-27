@@ -230,3 +230,5 @@ Added HttpPost in product controller and added the code for the image in upsert.
 Added the IUnitOfWork in HomeController.cs
 1815
 Added the index.cshtml for product to display the product and updated the product.js
+1819
+Added this services.AddControllersWithViews().AddRazorRuntimeCompilation(); to startup.cs
